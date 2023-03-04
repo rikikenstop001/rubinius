@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Allow Annotator PIL.Image inputs (#8397)
