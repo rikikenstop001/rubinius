@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
