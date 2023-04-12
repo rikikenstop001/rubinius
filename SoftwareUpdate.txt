@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
