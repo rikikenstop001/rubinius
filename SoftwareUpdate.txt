@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
