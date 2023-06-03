@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
