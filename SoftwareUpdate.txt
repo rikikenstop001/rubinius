@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add Amazon Sagemaker Docs integrations page (#7293)
