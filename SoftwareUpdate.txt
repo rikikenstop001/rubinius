@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+YAML reformat (#7669)
