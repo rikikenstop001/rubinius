@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Segment TensorRT batch=3 fix (#7952)
