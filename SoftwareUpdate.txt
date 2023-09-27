@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Update pyproject.toml and Docs (#7274)
