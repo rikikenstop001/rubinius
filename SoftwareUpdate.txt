@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Use pathlib in DOTA ops (#7552)
