@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
