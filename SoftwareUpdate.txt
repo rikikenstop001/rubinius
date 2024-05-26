@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Docs partial mdformat improvements (#7378)
