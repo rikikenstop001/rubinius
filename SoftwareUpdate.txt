@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
