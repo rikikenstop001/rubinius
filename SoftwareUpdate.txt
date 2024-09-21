@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+OBB: update metrics (#7593)
